@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SAMC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SAMC>
+    <HEADER>
+     <APPLICATION_ID>ZAMC_TEST</APPLICATION_ID>
+     <VERSION>A</VERSION>
+     <CHANGED_ON>2017-04-17</CHANGED_ON>
+     <CHANGED_BY>DEVELOPER</CHANGED_BY>
+     <CHANGED_AT>10:55:31</CHANGED_AT>
+     <CHANGED_CLNT>001</CHANGED_CLNT>
+     <CREATED_ON>2017-04-17</CREATED_ON>
+     <CREATED_BY>DEVELOPER</CREATED_BY>
+     <CREATED_AT>10:55:17</CREATED_AT>
+     <CREATED_CLNT>001</CREATED_CLNT>
+    </HEADER>
+    <TEXT>
+     <APPLICATION_ID>ZAMC_TEST</APPLICATION_ID>
+     <VERSION>A</VERSION>
+     <LANG>E</LANG>
+     <DESCRIPTION>Test</DESCRIPTION>
+    </TEXT>
+    <CHANNELS>
+     <AMC_CHANNEL>
+      <APPLICATION_ID>ZAMC_TEST</APPLICATION_ID>
+      <VERSION>A</VERSION>
+      <CHANNEL_ID>/test</CHANNEL_ID>
+      <SCOPE>S</SCOPE>
+      <MESSAGE_TYPE_ID>TEXT</MESSAGE_TYPE_ID>
+     </AMC_CHANNEL>
+    </CHANNELS>
+   </SAMC>
+  </asx:values>
+ </asx:abap>
+</abapGit>
